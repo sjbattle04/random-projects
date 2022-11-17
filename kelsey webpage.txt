@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+    <!--
+      -Name: Shayla Battle
+      -UnityID: sjbattl2
+      -Date: 11/16/2022
+      -Assignment: Index
+      -Description: Dad's Birhtday gift, my website
+      --> 
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="UTF-8" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <title>Dad's Website</title>
+    </head>
+    
+    <body style="background-color:#0066FF">
+    <!-- Header for Website -->
+
+    <h2>Welcome to Dad's Website!</h2> 
+        <hr /> 
+        
+    <!-- Paragraph about my dad -->
+        <p> I want to start off by saying <strong>Happy Birthday Dad!!!</strong> You're getting so old its hard to keep up with your actual age.
+        You should be about <em>51</em> I believe so. I know you are probably wondering why I decided to make a webpage as your gift. Honestly 
+        its mainly because shopping for you is <ins>soooo hard.</ins> 
+        did not love doing it as much as computer engineering. I only decided to do the electrical part because it was a couple extra classes.
+           </p>
+        <br />
+       
+     <!-- Paragraph about my job experience -->
+        <p>Currently I am not working a job, but I do plan on getting one next semester. Before I came to State, I used to work at a foster care agency. 
+        It was really nice being able to help kids in the system. My <strong>dream job</strong> would typically be one that allows me to <ins>travel</ins>
+        the world, pays a lot, is something I <em>enjoy</em> doing.</p>
+        <br />
+        <hr/>
+       
+    <!-- Image of Shayla -->
+        <img src="picture_of_shayla.jpg" alt="Ms. Shayla" id="photo-resize" style="border: 5px solid green;/>
+        <br>
+          <br />                                                                         
+        <br />
+    <h3>Links</h3> 
+        <br />                                                                           
+        <a href="https://mail.google.com/mail/u/3/?ogbl#inbox" target"_blank">sjbattl2@ncsu.edu</a> 
+       <br />
+        <a href= "Resume pdf.pdf">My Resume</a>
+                              
+        
+    <!-- A list of your most quality traits -->
+        <h4>Quality Traits:</h4>
+        <ul>
+            <li>Your style</li>
+            <li>Your gold tooth</li>
+            <li>Your bald head</li>
+            <li>Your determination for whatever you set your mind to.</li>
+        </ul>
+        <br />
+        
+     <!-- Table of Accomplishments -->
+        <table class="table-border">
+            <tr> <th>Accomplishments</th> <th>Links</th> </tr>
+            <tr> <td>ICAN</td> <td><a href="https://icanclothes.com/">click here</a></td>
+            <tr> <td>Under Armour Case</td> <td><a href="https://casetext.com/case/under-armour-inc-v-battle-fashions-inc-3">click here</a></td>
+        </table>
+        
+    </body>
+    
+</html>
