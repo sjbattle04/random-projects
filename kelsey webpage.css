@@ -1,0 +1,19 @@
+/*
+ *Description: dads birthday gift, my website
+ */
+ 
+p {
+    font-family: Times ;
+    font-size: 16px ;
+    color: #000000 ;
+}
+
+.table-border {
+    border: 1px solid #000000 ;
+}
+
+#photo-resize {
+   max-width: 220px ;
+   max-height: 250px ;
+ 
+}
